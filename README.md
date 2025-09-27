@@ -27,5 +27,5 @@ Direct access to the ALB or instances is not allowed. This restriction is enforc
 - Lambda runs on **Python 3.11** with the **psycopg2** package attached as a layer. psycopg2 is used as the database engine.  
 - Utilizes environment variables and AWS Secrets Manager so that credentials are not exposed.  
 - The web application is built with **Python Flask**:  
-  - `github-status-app/app.py`  
-  - `github-status-app/templates/index.html`  
+  - `github-status/app.py`  
+  - `github-status/templates/index.html`  
