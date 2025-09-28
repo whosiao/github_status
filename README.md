@@ -1,4 +1,4 @@
-# github_status
+# status-checker
 
 Jerry's technical assessment submission for GitHub Status
 
@@ -27,5 +27,5 @@ Direct access to the ALB or instances is not allowed. This restriction is enforc
 - Lambda - **insert_into_db.py** runs on **Python 3.11** with the **psycopg2** package attached as a layer. psycopg2 is used as the database engine.  
 - Utilizes environment variables and AWS Secrets Manager so that credentials are not exposed.  
 - The web application is built with **Python Flask**:  
-  - `github-status/app.py`  
-  - `github-status/templates/index.html`  
+  - `python-app/app.py`  
+  - `python-app/templates/index.html`  
