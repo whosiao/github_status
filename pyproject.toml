@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "GitHub Status Dashboard"
+version = "1.0.0"
+description = "Submission for assessment"
+authors = ["<jerryohjieyi1995@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.11"
+flask = "*"
+psycopg2 = "*"
+boto3 = "*"
+gunicorn = "*"
+jinja2 = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
