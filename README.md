@@ -5,7 +5,7 @@ Jerry's technical assessment submission for GitHub Status
 - **Email:** jerryohjieyi1995@gmail.com  
 - **LinkedIn:** [Jerry Oh Jie Yi](https://www.linkedin.com/in/jerry-oh-jie-yi-548524190/)  
 
-**Submission:** [Jerry - GitHub Status Dashboard](https://d1insua5ixvm3k.cloudfront.net/)
+**Submission Web Link:** [Jerry - GitHub Status Dashboard](https://d1insua5ixvm3k.cloudfront.net/)
 
 ---
 
